@@ -1,0 +1,3 @@
+﻿  maina.c
+C:\Users\txanp\OneDrive\Desktop\MU\Program\Primero_1\NowaGIT\seupein\IPdePyR\IPdePyR\maina.c(34,49): warning C4244:  'función': conversión de 'double' a 'int'; posible pérdida de datos
+  IPdePyR.vcxproj -> C:\Users\txanp\OneDrive\Desktop\MU\Program\Primero_1\NowaGIT\seupein\IPdePyR\Debug\IPdePyR.exe

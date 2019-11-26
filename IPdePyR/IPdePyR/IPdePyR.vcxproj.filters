@@ -18,5 +18,13 @@
     <ClCompile Include="maina.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="funtzioak.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
